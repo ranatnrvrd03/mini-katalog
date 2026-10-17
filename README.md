@@ -13,7 +13,7 @@ Bu proje, Flutter eğitimi kapsamında widget yapısı, sayfa geçişleri, veri 
 - **Sayfa geçişleri:** Named Routes ve Route Arguments ile veri taşıma
 - **JSON veri:** Model sınıfı ile `fromJson` / `toJson` kullanımı
 
-## 🛠️ Kullanılan Teknolojiler
+## Kullanılan Teknolojiler
 
 | Araç | Sürüm |
 |---|---|
