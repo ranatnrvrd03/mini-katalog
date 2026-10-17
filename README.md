@@ -1,10 +1,10 @@
-# 🛍️ Mini Katalog Uygulaması
+#  Mini Katalog Uygulaması
 
 Flutter ile geliştirilmiş basit bir ürün katalog uygulaması. Kullanıcılar ürünleri listeleyebilir, arama yapabilir, ürün detaylarını inceleyebilir ve ürünleri sepete ekleyebilir.
 
 Bu proje, Flutter eğitimi kapsamında widget yapısı, sayfa geçişleri, veri modeli ve state yönetimi konularını uygulamalı olarak öğrenmek amacıyla geliştirilmiştir.
 
-## ✨ Özellikler
+##  Özellikler
 
 - **Ürün listesi:** GridView ile 2 sütunlu ürün kartları
 - **Arama:** Ürün adı ve sloganına göre anlık filtreleme
@@ -22,7 +22,7 @@ Bu proje, Flutter eğitimi kapsamında widget yapısı, sayfa geçişleri, veri 
 | Paketler | Sadece `material.dart`, ekstra paket yok |
 | Test cihazı | Samsung Galaxy S24 FE (Android 16) |
 
-## 📁 Proje Yapısı
+##  Proje Yapısı
 
 ```
 lib/
@@ -44,7 +44,7 @@ assets/
 └── images/                       # Banner ve ürün görselleri
 ```
 
-## 🚀 Çalıştırma Adımları
+##  Çalıştırma Adımları
 
 1. Flutter SDK'nın kurulu olduğundan emin olun:
 ```bash
@@ -64,7 +64,7 @@ assets/
    flutter run
 ```
 
-## 📱 Ekran Görüntüleri
+##  Ekran Görüntüleri
 
 | Ana Sayfa | Arama | Ürün Detayı |
 |:---:|:---:|:---:|
@@ -74,10 +74,10 @@ assets/
 |:---:|:---:|
 | <img src="screenshots/cart.jpg" width="220"> | <img src="screenshots/empty_cart.jpg" width="220"> |
 
-## 📌 Veri Kaynağı
+##  Veri Kaynağı
 
 Ürün verileri ve görseller [wantapi.com](https://wantapi.com/products.php) adresinden alınmış ve uygulamaya asset olarak eklenmiştir. Bu veriler yalnızca eğitim ve demo amaçlıdır, gerçek bir e-ticaret altyapısını temsil etmez.
 
-## 👩‍💻 Geliştirici
+##  Geliştirici
 
 **Rana Tanrıverdi**
